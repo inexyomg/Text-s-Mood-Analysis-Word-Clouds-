@@ -1,3 +1,5 @@
+DATA: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy
+
 This work involves the study of corpus linguistics and sentiment analysis based on the statements of philosophers.
 Sentiment analysis is a natural language processing task in which we detect the positive, negative or neutral sentiment of a passage of text. For example, sentiment analysis is used by companies to analyze customers' 
 opinions about their products or services so that they can use positive sentiment to promote their products or services and negative sentiment to improve the quality of their products or services.
