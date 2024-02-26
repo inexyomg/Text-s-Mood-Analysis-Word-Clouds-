@@ -1,4 +1,6 @@
 DATA: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy
+<b>Text-s-Mood-Analysis.pdf</b> - slides of the project
+
 
 This work involves the study of corpus linguistics and sentiment analysis based on the statements of philosophers.
 Sentiment analysis is a natural language processing task in which we detect the positive, negative or neutral sentiment of a passage of text. For example, sentiment analysis is used by companies to analyze customers' 
