@@ -1,4 +1,4 @@
-DATA: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy
+DATA: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy <br>
 <b>Text-s-Mood-Analysis.pdf</b> - slides of the project
 
 
